@@ -1,0 +1,25 @@
+{
+  "name": "module11_homework",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Jeteno/module11_homework.git"
+  },
+  "author": "Jeteno",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jeteno/module11_homework/issues"
+  },
+  "homepage": "https://github.com/Jeteno/module11_homework#readme",
+  "devDependencies": {
+    "@babel/core": "^7.22.1",
+    "@babel/preset-env": "^7.22.4",
+    "babel-jest": "^29.5.0",
+    "jest": "^29.5.0"
+  }
+}
